@@ -1,0 +1,11 @@
+# General OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+/.idea
+
+# Build
+/node_modules
+.eslintcache
